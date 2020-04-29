@@ -1,0 +1,12 @@
+$theme-colors: (
+  "primary": red,
+  "danger": #eb4034,
+  "secondary": #737373,
+  "success": #1eff00
+);
+$alert-border-radius: 50px;
+$alert-border-width: 20px;
+$progress-bar-color: red;
+$progress-bar-transition: 60%;
+
+@import "~bootstrap";
