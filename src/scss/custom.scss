@@ -4,9 +4,14 @@ $theme-colors: (
   "secondary": #737373,
   "success": #1eff00
 );
-$alert-border-radius: 50px;
-$alert-border-width: 20px;
+$alert-border-radius: 60px;
+$alert-border-width: 10px;
 $progress-bar-color: red;
+$progress-box-shadow: 3;
+$enable-shadows: true;
+$body-bg: #f2f2f2; //Jo tohle funguje, takze neni to scam :)
 $progress-bar-transition: 60%;
-
+$font-family-sans-serif: 'Indie Flower', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import "~bootstrap";
+
